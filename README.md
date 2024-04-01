@@ -6,7 +6,7 @@
 
 ```sh
 
-# instalar dependencias (jest) =)
+# instalar dependencias
 npm install
 
 # rodar testes
